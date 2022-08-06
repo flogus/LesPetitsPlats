@@ -3,10 +3,11 @@
 inclus deux branches.
 Comparées sur https://jsben.ch/01DtK
 
-## Filter
+## Main
 
-https://github.com/flogus/algorithmeRechercheJavaScript/tree/filter
+https://github.com/flogus/algorithmeRechercheJavaScript
 
 ## For
 
 https://github.com/flogus/algorithmeRechercheJavaScript/tree/for
+
